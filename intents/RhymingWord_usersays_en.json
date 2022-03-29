@@ -1,0 +1,40 @@
+[
+  {
+    "id": "25296d9b-b088-4f96-be86-311b42839103",
+    "data": [
+      {
+        "text": "words that rhyme with ",
+        "userDefined": false
+      },
+      {
+        "text": "teacher",
+        "meta": "@sys.any",
+        "alias": "word",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f87fb0e8-621f-470a-9e46-824afd6621a3",
+    "data": [
+      {
+        "text": "rhyming word for ",
+        "userDefined": false
+      },
+      {
+        "text": "music",
+        "meta": "@sys.any",
+        "alias": "word",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

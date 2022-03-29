@@ -1,0 +1,53 @@
+[
+  {
+    "id": "7b0638aa-b720-411c-b1e9-2ca176aeac21",
+    "data": [
+      {
+        "text": "Set a timer for ",
+        "userDefined": false
+      },
+      {
+        "text": "40s",
+        "meta": "@sys.duration",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7be3cf12-114b-4a09-9537-fcab8b3b0923",
+    "data": [
+      {
+        "text": "Start a timer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0ed40bf-bb5a-4218-a729-5643b8cfa549",
+    "data": [
+      {
+        "text": "Set a timer for ",
+        "userDefined": false
+      },
+      {
+        "text": "30 seconds",
+        "meta": "@sys.duration",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

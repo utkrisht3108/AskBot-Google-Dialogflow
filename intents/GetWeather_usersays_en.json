@@ -1,0 +1,59 @@
+[
+  {
+    "id": "044c285f-d4f7-4ef5-8621-5406d304bb17",
+    "data": [
+      {
+        "text": "What\u0027s the temperature in ",
+        "userDefined": false
+      },
+      {
+        "text": "Delhi",
+        "meta": "@sys.geo-city",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3fd40d4-a98e-4d81-a649-43d9055fca73",
+    "data": [
+      {
+        "text": "weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "punjab",
+        "meta": "@sys.geo-city",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14e66acc-1253-4e80-bde7-b0263621ae74",
+    "data": [
+      {
+        "text": "What is the weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "meta": "@sys.geo-city",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

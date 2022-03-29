@@ -1,0 +1,53 @@
+[
+  {
+    "id": "86acb228-7068-4a09-8faa-4375d91eebb8",
+    "data": [
+      {
+        "text": "exercise with body part ",
+        "userDefined": false
+      },
+      {
+        "text": "pop",
+        "meta": "@sys.any",
+        "alias": "bodyPart",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b0e65ca-e01a-4e9c-8550-7de1cef71738",
+    "data": [
+      {
+        "text": "specific body part exercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5cd3dd3-a14e-4145-9d8d-29136ce8c8c2",
+    "data": [
+      {
+        "text": "show me some exercise with body part ",
+        "userDefined": false
+      },
+      {
+        "text": "popcorn",
+        "meta": "@sys.any",
+        "alias": "bodyPart",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "88e165f9-9261-4d6e-acaf-72d189782a1e",
+    "data": [
+      {
+        "text": "Calories",
+        "meta": "@sys.any",
+        "alias": "calorie",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "paneer",
+        "meta": "@sys.any",
+        "alias": "calorieQuery",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db6739d4-1628-4ed0-93d4-30557e8ab8c4",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "calories",
+        "meta": "@sys.any",
+        "alias": "calorie",
+        "userDefined": true
+      },
+      {
+        "text": " are there in ",
+        "userDefined": false
+      },
+      {
+        "text": "potato",
+        "meta": "@sys.any",
+        "alias": "calorieQuery",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b59c1670-b44e-4e7c-9ef0-eba21515d916",
+    "data": [
+      {
+        "text": "How much ",
+        "userDefined": false
+      },
+      {
+        "text": "calories",
+        "meta": "@sys.any",
+        "alias": "calorie",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken",
+        "meta": "@sys.any",
+        "alias": "calorieQuery",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "349a5905-8807-41e0-b57d-357939422356",
+    "data": [
+      {
+        "text": "Calories",
+        "meta": "@sys.any",
+        "alias": "calorie",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "boiled egg",
+        "meta": "@sys.any",
+        "alias": "calorieQuery",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

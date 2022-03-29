@@ -1,0 +1,47 @@
+[
+  {
+    "id": "e32ac1d5-c7f4-4576-801d-88345ebb3a06",
+    "data": [
+      {
+        "text": "show me exercise with equipment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df85f7f4-11a6-4bdf-af9e-30641d9237ff",
+    "data": [
+      {
+        "text": "equipment exercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99a28e85-864b-42af-88cf-311297511833",
+    "data": [
+      {
+        "text": "show me exercise with equipment ",
+        "userDefined": false
+      },
+      {
+        "text": "dumbbell",
+        "meta": "@sys.any",
+        "alias": "equipment",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

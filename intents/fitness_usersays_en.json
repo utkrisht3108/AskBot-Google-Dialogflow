@@ -1,0 +1,69 @@
+[
+  {
+    "id": "0be1f590-9206-40c1-a2cc-cb6ce0d42c85",
+    "data": [
+      {
+        "text": "show me fitness exercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dc97ffe-01ee-442b-b0c0-f24b60544a5f",
+    "data": [
+      {
+        "text": "show me all exercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fc67052-a8a6-4180-92c3-f3e3c578a3d5",
+    "data": [
+      {
+        "text": "show me some exercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "595924b3-fa09-4a2e-b0fa-1f9bcd9b19b8",
+    "data": [
+      {
+        "text": "exercise",
+        "meta": "@exercise",
+        "alias": "exercise",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c073024f-9430-43c6-a46d-9d6e52bfa74d",
+    "data": [
+      {
+        "text": "show me exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

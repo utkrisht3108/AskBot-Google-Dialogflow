@@ -1,0 +1,101 @@
+[
+  {
+    "id": "88fe66a2-733e-41f2-8101-1d53fccf35a6",
+    "data": [
+      {
+        "text": "list of ",
+        "userDefined": false
+      },
+      {
+        "text": "target muscles",
+        "meta": "@sys.any",
+        "alias": "filter",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9da81990-87ab-48c6-b4c0-df0e96a24c0d",
+    "data": [
+      {
+        "text": "show me list of ",
+        "userDefined": false
+      },
+      {
+        "text": "equipments",
+        "meta": "@sys.any",
+        "alias": "filter",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39e39aaf-bf08-4feb-8668-c7bcb9e1449c",
+    "data": [
+      {
+        "text": "show me all the ",
+        "userDefined": false
+      },
+      {
+        "text": "body parts",
+        "meta": "@sys.any",
+        "alias": "filter",
+        "userDefined": true
+      },
+      {
+        "text": " list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14de797f-33a9-4bc5-b3af-9f929d4029d3",
+    "data": [
+      {
+        "text": "list of all the ",
+        "userDefined": false
+      },
+      {
+        "text": "body parts",
+        "meta": "@sys.any",
+        "alias": "filter",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8d9f124-fca2-4278-b34a-02e5ac0ea9ab",
+    "data": [
+      {
+        "text": "show me the list of all the ",
+        "userDefined": false
+      },
+      {
+        "text": "equipment",
+        "meta": "@sys.any",
+        "alias": "filter",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "42f9066e-e410-4d9c-a9d5-543a6d9c92e7",
+    "data": [
+      {
+        "text": "show me the exercise with id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f94f4ee-d015-4d5f-a4b4-6db1b04560be",
+    "data": [
+      {
+        "text": "show me the exercise with id ",
+        "userDefined": false
+      },
+      {
+        "text": "0003",
+        "meta": "@sys.any",
+        "alias": "id",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28fcde1a-627e-4974-ad0c-318b2847222d",
+    "data": [
+      {
+        "text": "show me the exercise with id number ",
+        "userDefined": false
+      },
+      {
+        "text": "0003",
+        "meta": "@sys.any",
+        "alias": "id",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

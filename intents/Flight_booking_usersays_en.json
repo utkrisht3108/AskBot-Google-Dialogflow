@@ -1,0 +1,247 @@
+[
+  {
+    "id": "f06dbb03-1364-495e-9aae-698db87324ec",
+    "data": [
+      {
+        "text": "i want book a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "meta": "@sys.location",
+        "alias": "curr",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Delhi",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8edcdee8-29cc-445f-8798-58f195ee6ac6",
+    "data": [
+      {
+        "text": "I want to book a flight for $",
+        "userDefined": false
+      },
+      {
+        "text": "curr",
+        "meta": "@sys.location",
+        "alias": "curr",
+        "userDefined": true
+      },
+      {
+        "text": " to $",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " from $",
+        "userDefined": false
+      },
+      {
+        "text": "departure",
+        "meta": "@sys.date-period",
+        "alias": "departure",
+        "userDefined": true
+      },
+      {
+        "text": " to @",
+        "userDefined": false
+      },
+      {
+        "text": "arrival",
+        "meta": "@sys.date-period",
+        "alias": "arrival",
+        "userDefined": true
+      },
+      {
+        "text": " for $",
+        "userDefined": false
+      },
+      {
+        "text": "count",
+        "meta": "@sys.number",
+        "alias": "count",
+        "userDefined": true
+      },
+      {
+        "text": " people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddd64c5d-4784-4638-8acb-7262bdb87fd6",
+    "data": [
+      {
+        "text": "I want to book a flight for $",
+        "userDefined": false
+      },
+      {
+        "text": "curr",
+        "meta": "@sys.location",
+        "alias": "curr",
+        "userDefined": true
+      },
+      {
+        "text": " to $",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " from $",
+        "userDefined": false
+      },
+      {
+        "text": "departure",
+        "meta": "@sys.date-period",
+        "alias": "departure",
+        "userDefined": true
+      },
+      {
+        "text": " to @",
+        "userDefined": false
+      },
+      {
+        "text": "arrival",
+        "meta": "@sys.date-period",
+        "alias": "arrival",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f6875c7-162e-4c59-ac6b-98e0affa86f1",
+    "data": [
+      {
+        "text": "I want to book a flight for $",
+        "userDefined": false
+      },
+      {
+        "text": "departure.",
+        "meta": "@sys.date-period",
+        "alias": "departure",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df47218c-9a75-4132-8c8f-288f68ce2f0e",
+    "data": [
+      {
+        "text": "I want to book a flight for $",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "860ee040-ffbf-462d-aa21-6cd6a50f5e1c",
+    "data": [
+      {
+        "text": "I want to book a flight for $",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": true
+      },
+      {
+        "text": " from $",
+        "userDefined": false
+      },
+      {
+        "text": "departure",
+        "meta": "@sys.date-period",
+        "alias": "departure",
+        "userDefined": true
+      },
+      {
+        "text": " to $",
+        "userDefined": false
+      },
+      {
+        "text": "arrival",
+        "meta": "@sys.date-period",
+        "alias": "arrival",
+        "userDefined": true
+      },
+      {
+        "text": " for $",
+        "userDefined": false
+      },
+      {
+        "text": "count",
+        "meta": "@sys.number",
+        "alias": "count",
+        "userDefined": true
+      },
+      {
+        "text": " people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c434c40a-eb0e-48b9-9023-e62f2b4529b7",
+    "data": [
+      {
+        "text": "I want to book a flight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

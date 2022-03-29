@@ -1,0 +1,34 @@
+[
+  {
+    "id": "8e5e2e31-f9ca-4b88-9b7f-7dae25c5d5f0",
+    "data": [
+      {
+        "text": "please book a table ",
+        "userDefined": false
+      },
+      {
+        "text": "next week",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "529b15d3-30b0-46b8-9133-a7b60e98119f",
+    "data": [
+      {
+        "text": "please book me a table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

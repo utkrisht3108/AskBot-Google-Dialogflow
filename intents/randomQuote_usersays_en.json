@@ -1,0 +1,67 @@
+[
+  {
+    "id": "5f3fbaf2-f42b-4f2f-8fb5-9c5a4d616e46",
+    "data": [
+      {
+        "text": "random motivation quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2aa437cc-502d-4d6e-8358-35a9df06faf9",
+    "data": [
+      {
+        "text": "quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06874399-1aac-4c6c-815a-07a9713a210d",
+    "data": [
+      {
+        "text": "motivation quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4335ea4d-4d23-4e93-a94a-14abfba2b2db",
+    "data": [
+      {
+        "text": "show me random quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e1d1757-35b5-4bea-92cc-5bcad58d7036",
+    "data": [
+      {
+        "text": "give me a random quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "a284e146-db95-4607-9f0a-5f9399968472",
+    "data": [
+      {
+        "text": "I want food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f185593f-0516-48e4-ac73-6e6ea85d54a2",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "momos",
+        "meta": "@food",
+        "alias": "food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

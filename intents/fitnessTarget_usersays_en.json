@@ -1,0 +1,53 @@
+[
+  {
+    "id": "4462b063-3e44-4464-8cba-df1153668a66",
+    "data": [
+      {
+        "text": "show me exercise with target muscle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66fee92a-66f7-4420-b36f-1c4086c3a8cc",
+    "data": [
+      {
+        "text": "show me exercise with target muscle ",
+        "userDefined": false
+      },
+      {
+        "text": "potato",
+        "meta": "@sys.any",
+        "alias": "target",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e31af79-56ac-47e8-92d7-d20d3f173bc4",
+    "data": [
+      {
+        "text": "show me some exercises with target ",
+        "userDefined": false
+      },
+      {
+        "text": "potato",
+        "meta": "@sys.any",
+        "alias": "target",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
